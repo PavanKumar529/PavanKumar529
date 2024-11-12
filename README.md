@@ -33,7 +33,8 @@
 - **Frontend:** HTML, CSS, JavaScript, React.js, Redux, Bootstrap, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, SQL
-- **Other Tools:** Git, GitHub, M.S. Office
+- **Version Control:** Git, GitHub
+- **Other Tools:** Postman, M.S. Office
 
 ---
 
